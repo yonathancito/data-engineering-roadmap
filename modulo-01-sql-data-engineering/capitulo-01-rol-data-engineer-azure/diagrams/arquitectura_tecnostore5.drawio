@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="3nA1vZYqnFXah2mTnRZH">
+    <mxGraphModel dx="678" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-38" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="328" width="328" x="450" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fuentes de datos" vertex="1">
+          <mxGeometry height="30" width="150" x="57" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="150" width="191.5" x="38.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-6" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;points=[[0.25,0,0],[0.5,1,0],[0,0.529,0],[1,0.5,0],[0.995,0.348,0],[0.997,0.985,0],[0.013,0.995,0],[0.013,0.058,0]];labelPerimeter=1;" value="azure data factory" vertex="1">
+          <mxGeometry height="84" width="84" x="287" y="153" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ingesta de Datos" vertex="1">
+          <mxGeometry height="30" width="150" x="254" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Almacenamiento" vertex="1">
+          <mxGeometry height="30" width="150" x="570" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-17" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;points=[[0.777,0,0],[0.5,1,0],[0.038,0.5,0],[1,0.5,0],[0.993,0.018,0],[0.993,0.982,0],[0.007,0.982,0]];labelPerimeter=1;" value="power bi" vertex="1">
+          <mxGeometry height="68" width="51" x="300.0000000000001" y="317.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-23" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="SQL Server" vertex="1">
+          <mxGeometry height="40" width="40" x="57" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-24" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="API" vertex="1">
+          <mxGeometry height="40" width="40" x="110" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-25" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="CSV" vertex="1">
+          <mxGeometry height="40" width="40" x="112" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-26" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="ERP" vertex="1">
+          <mxGeometry height="40" width="40" x="57" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-27" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="EVENTOS" vertex="1">
+          <mxGeometry height="62.8" width="62.8" x="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-53" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-62" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-20" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;points=[[0.5,0,0],[0.5,1,0],[0,0.501,0],[0.886,0.5,0],[1,0.263,0],[1,0.742,0],[0,0.742,0],[0,0.26,0]];labelPerimeter=1;" value="Azure Databricks" vertex="1">
+          <mxGeometry height="105" width="96.96" x="662.92" y="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Procesamiento" vertex="1">
+          <mxGeometry height="10" width="62.8" x="680" y="153" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-48" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-59" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Bronze" vertex="1">
+          <mxGeometry height="30" width="136" x="460" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-49" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-60" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Silver" vertex="1">
+          <mxGeometry height="30" width="136" x="460" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Gold" vertex="1">
+          <mxGeometry height="30" width="136" x="460" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-43" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Azure Data Lake Storage Gen2&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="615" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-47" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqfFC6p2QFaOLVsOLVee-51" edge="1" parent="1" source="pqfFC6p2QFaOLVsOLVee-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.981;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="pqfFC6p2QFaOLVsOLVee-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
