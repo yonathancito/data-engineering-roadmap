@@ -1,1 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
 
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
